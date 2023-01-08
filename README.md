@@ -7,6 +7,9 @@ You just need to name the armor piece according to the names given here.
  Rename the leggings to the chosen thigh high<br>
  (eg. "X's amazing aqua thighs", "Lebron's fishnets")
  <br><br>
+ <h3>Froggy hats:</h3>
+ Rename any carved pumpkin to "(color) frog".
+ <br><br>
  <h3>Maid outfit:</h3>
  Rename any armor piece to "(color) maid".
  <br><br>
