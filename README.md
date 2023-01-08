@@ -19,7 +19,12 @@ You just need to name the armor piece according to the names given here.
  <br><br><br><br>
  <h3>General stuff:</h3>
  <span>You can mix and match different armors and clothings.<br>
- <img src="https://user-images.githubusercontent.com/66312982/211204956-f33086bd-c5bc-4925-ac6e-7f4086897fb3.png" alt="me transparent" height="300px"/><img src="https://user-images.githubusercontent.com/66312982/211205067-3fd4b214-c4da-4618-9831-dc6e1d0408cb.png" alt="me transparent 2" height="300px"/></span>
+ <img src="https://user-images.githubusercontent.com/66312982/211204956-f33086bd-c5bc-4925-ac6e-7f4086897fb3.png" alt="me transparent" height="300px"/>
+ <img src="https://user-images.githubusercontent.com/66312982/211205067-3fd4b214-c4da-4618-9831-dc6e1d0408cb.png" alt="me transparent 2" height="300px"/>
+ <img src="https://user-images.githubusercontent.com/66312982/211223084-19765413-000b-4295-ae07-7cfe5b5de6a0.png" alt="o///o" height="300px"/>
+ 
+ 
+ </span>
 
  <br><br>
  
